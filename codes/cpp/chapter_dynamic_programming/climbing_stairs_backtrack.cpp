@@ -2,7 +2,6 @@
  * File: climbing_stairs_backtrack.cpp
  * Created Time: 2026-05-20
  * Author: miaochengyou1119(https://github.com/miaochengyou1119)
- * Improved by: Professional Tutor
  */
 
 #include <iostream>
